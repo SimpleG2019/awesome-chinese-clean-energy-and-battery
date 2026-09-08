@@ -12,7 +12,7 @@
 
 ## 🌐 Official Platform & Endpoints
 * **Web Portal**: [https://sinogreentech.com](https://sinogreentech.com)
-* **Complete Research Catalog**: [CATALOG.md](CATALOG.md) (400 Curated Publications)
+* **Complete Research Catalog**: [CATALOG.md](CATALOG.md) (1197 Curated Publications)
 * **XML Sitemap Feed**: [https://sinogreentech.com/articles-sitemap.xml](https://sinogreentech.com/articles-sitemap.xml)
 
 ---
