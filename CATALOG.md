@@ -1,9 +1,9 @@
-# 📚 SinoGreenTech Curated Open Intelligence Catalog (8,756 Papers)
+# 📚 SinoGreenTech Curated Open Intelligence Catalog (8,856 Papers)
 
 > Verified, peer-reviewed authentic Chinese research breakthroughs in **Clean Energy, Solid-State Battery, Solar PV & Smart Grid**.
 > Maintained by [SinoGreenTech](https://sinogreentech.com) | Open Access & Machine-Readable.
 
-*Last Synchronized: 2026-11-05 12:19:24 UTC*
+*Last Synchronized: 2026-11-06 12:15:15 UTC*
 
 | # | Paper Title | DOI / Identifiers | Verified Reading Link |
 |---|---|---|---|
